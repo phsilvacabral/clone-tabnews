@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>minha piranha favorita</h1>
+    return <h1>Hello, world!</h1>
 }
 
 export default Home

@@ -1,0 +1,5 @@
+root = true
+
+[*] # pode-se usar a extenção do arquivo. Ex: .js
+indent_style = space
+indent_size = 2
